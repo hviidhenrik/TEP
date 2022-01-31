@@ -1,0 +1,4 @@
+Setup 1: 
+ 1 run of 10 hours duration.
+ IDV 1 is on from hours 5 to 10.
+ Seed is 5469 to 5470.
